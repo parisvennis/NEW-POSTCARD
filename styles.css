@@ -5,6 +5,7 @@ img {
     width: 60px;
     height: 60px;
     float: right;
+    margin: 20px;
 }
 /* .top {
     width: 40%;
@@ -12,9 +13,19 @@ img {
 h1 {
     width:60%;
     float: left;
-    margin: 40px 20px;
+    margin: 50px 20px 10px 20px;
     font-size: 3rem;
 }
 body {
     font-family: 'Dancing Script', cursive;
+}
+.input {
+    border-bottom: 1px solid grey;
+    margin: 20px;
+    font-display: grey;
+}
+.btn-primary {
+    width: 30%;
+    margin: 10px auto ;
+
 }
